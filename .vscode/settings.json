@@ -13,6 +13,6 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Monokai Pro",
+   "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
    "terminal.integrated.gpuAcceleration": "canvas",
 }
